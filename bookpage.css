@@ -1,0 +1,189 @@
+.bg-container {
+    background-color: #1b1b1b;
+    background-size: cover;
+    padding: 5px;
+    text-align: center;
+}
+
+.popular-book {
+    font-family: "Bree Serif";
+    font-size: 28px;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.Abdul-Kalam {
+    width: 25vh;
+    height: 35vh;
+    text-align: center;
+}
+
+.popular-book-card {
+    background-color: #e6f6ff;
+    margin: 15px;
+    border-radius: 5px;
+}
+
+.book-title {
+    font-size: 16px;
+    font-family: "Bree Serif";
+    color: #183b56;
+    margin: 8px;
+    padding: 2px;
+}
+
+.book-description {
+    font-size: 14px;
+    font-family: "Bree Serif";
+    color: #06070d;
+    margin: 6px;
+    padding: 5px;
+}
+
+.author {
+    font-size: 11px;
+    font-family: "Bree Serif";
+    color: #183b56;
+    margin: 8px;
+    padding: 2px;
+}
+
+.button {
+    width: 125px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 2px;
+    font-family: "Roboto";
+    font-size: 14px;
+    text-align: center;
+}
+
+.recommanded-books {
+    font-size: 20px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+    margin: 5px;
+    padding: 7px;
+    text-align: left;
+}
+
+.other-books {
+    width: 20vh;
+    height: 27vh;
+    margin: 10px;
+}
+
+.bg {
+    background-color: #1b1b1b;
+}
+
+.bgg {
+    background-color: #1b1b1b;
+}
+
+.title {
+    color: #ffffff;
+    font-size: 14px;
+    font-family: "Bree Serif";
+    margin: 5px;
+    padding: 5px;
+}
+
+.recommended-book-author {
+    font-size: 11px;
+    font-family: "Bree Serif";
+    color: #9aa5b1;
+    margin: 8px;
+    padding: 5px;
+    text-align: left;
+}
+
+.detailed-page-bg-container {
+    background-color: #1b1b1b;
+    background-size: cover;
+    padding: 60px;
+
+}
+
+.APJ-bio {
+    width: 40vh;
+    height: 60vh;
+    border-radius: 4px;
+    margin: 50px;
+    padding: 5px;
+    text-align: center;
+
+}
+
+.APJ-bio-title {
+    font-size: 26px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+
+.ABJ-full-bio {
+    font-size: 12px;
+    font-family: "Bree Serif";
+    color: #9aa5b1;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.bio-author {
+    font-size: 10px;
+    font-family: "Bree Serif";
+    color: #e4e7eb;
+    text-align: center;
+    padding: 5px;
+
+}
+
+.back-button {
+    background-color: yellow;
+    width: 110px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 2px;
+    font-family: "Roboto";
+    font-size: 14px;
+    border-width: 0px;
+}
+
+.mistakes-title {
+    font-size: 26px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+
+.mistakes-story {
+    font-size: 12px;
+    font-family: "Bree Serif";
+    color: #e4e7eb;
+    padding: 10px;
+}
+
+.harry-potter-title {
+    font-size: 26px;
+    font-family: "Bree Serif";
+    color: #ffffff;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+
+.harry-potter-story {
+    font-size: 12px;
+    font-family: "Bree Serif";
+    color: #9aa5b1;
+    padding: 2px;
+    text-align: center;
+}
