@@ -33,7 +33,7 @@
 }
 
 .book-description {
-    font-size: 20px;
+    font-size: 25px;
     font-family: "Bree Serif";
     color: #06070d;
     margin: 6px;
@@ -41,7 +41,7 @@
 }
 
 .author {
-    font-size: 20px;
+    font-size: 22px;
     font-family: "Bree Serif";
     color: #183b56;
     margin: 8px;
@@ -60,7 +60,7 @@
 }
 
 .recommanded-books {
-    font-size: 20px;
+    font-size: 28px;
     font-family: "Bree Serif";
     color: #ffffff;
     margin: 5px;
@@ -91,7 +91,7 @@
 }
 
 .recommended-book-author {
-    font-size: 11px;
+    font-size: 25px;
     font-family: "Bree Serif";
     color: #9aa5b1;
     margin: 8px;
@@ -126,7 +126,7 @@
 }
 
 .ABJ-full-bio {
-    font-size: 18px;
+    font-size: 20px;
     font-family: "Bree Serif";
     color: #9aa5b1;
     padding: 10px;
@@ -181,7 +181,7 @@
 }
 
 .harry-potter-story {
-    font-size: 20px;
+    font-size: 24px;
     font-family: "Bree Serif";
     color: #9aa5b1;
     padding: 2px;
