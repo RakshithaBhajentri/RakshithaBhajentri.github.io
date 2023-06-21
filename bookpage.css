@@ -126,7 +126,7 @@
 }
 
 .ABJ-full-bio {
-    font-size: 12px;
+    font-size: 18px;
     font-family: "Bree Serif";
     color: #9aa5b1;
     padding: 10px;
@@ -135,7 +135,7 @@
 }
 
 .bio-author {
-    font-size: 10px;
+    font-size: 18px;
     font-family: "Bree Serif";
     color: #e4e7eb;
     text-align: center;
@@ -165,14 +165,14 @@
 }
 
 .mistakes-story {
-    font-size: 12px;
+    font-size: 20px;
     font-family: "Bree Serif";
     color: #e4e7eb;
     padding: 10px;
 }
 
 .harry-potter-title {
-    font-size: 26px;
+    font-size: 30px;
     font-family: "Bree Serif";
     color: #ffffff;
     text-align: center;
@@ -181,7 +181,7 @@
 }
 
 .harry-potter-story {
-    font-size: 12px;
+    font-size: 20px;
     font-family: "Bree Serif";
     color: #9aa5b1;
     padding: 2px;
